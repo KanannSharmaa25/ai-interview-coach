@@ -113,3 +113,59 @@ cd client && npm run dev
 - **Analytics:** `GET /api/analytics/overview` → from Interview records (scores, streak, weak topics, history).
 - **Voice:** Mock Interview and Voice Assistant use `useSpeechRecognition` and `useSpeechSynthesis` (Web Speech API).
 - **Stripe:** Checkout session creation (auth) and webhook handler (raw body) to set user `plan`.
+
+  
+📊 Workflow
+
+User uploads resume / selects job role
+
+AI generates interview questions
+
+User answers via text, voice, or video
+
+AI analyzes responses in real time
+
+Feedback, scores, and improvement tips are generated
+
+Progress is stored and tracked over time
+
+🎯 Use Cases
+
+College students preparing for placements
+
+Job seekers practicing interviews
+
+Final-year project demonstration
+
+Resume & skill improvement
+
+🧪 Future Enhancements
+
+AI Interviewer avatars
+
+Multilingual interview support
+
+Peer comparison & ranking
+
+Recruiter dashboard
+
+Mobile application
+
+🏆 Project Highlights
+
+Real-world interview simulation
+
+Personalized AI feedback
+
+Strong resume-worthy AI project
+
+Scalable and industry-relevant
+
+📄 License
+
+This project is for educational and academic purposes.
+
+✨ Author
+
+Kanan Sharma
+Computer Science & Data Science Student
